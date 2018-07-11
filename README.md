@@ -7,3 +7,7 @@ plugin and theme for deeru( deeru 插件，主题列表)
 ========
 
  * [七牛插件](https://github.com/gojuukaze/deeru-qiniu)
+
+
+主题
+============
